@@ -1,1 +1,1 @@
-# django-tut
+# Django Tutorial
